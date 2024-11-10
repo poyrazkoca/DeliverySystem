@@ -25,8 +25,7 @@ Output: After all missions are completed, generate result.txt with the final sta
 
 # Data Structures
 Doubly Linked List: Used to model both cargo packages and delivery vehicles.
-Stack: Models the LIFO behavior of cargo packages at dist[PA REPORT OF DELIVERY SYSTEM.pdf](https://github.com/user-attachments/files/17690716/PA.REPORT.OF.DELIVERY.SYSTEM.pdf)
-ribution centers.
+Stack: Models the LIFO behavior of cargo packages at distribution centers.
 Queue: Models the FIFO access to vehicles in each distribution center's central warehouse.
 
 # Notes
