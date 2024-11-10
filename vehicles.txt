@@ -1,0 +1,4 @@
+V1 Hamburg 4.8
+V2 Berlin 7.2
+V3 Berlin 2.8
+V4 Hamburg 4.3

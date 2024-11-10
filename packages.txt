@@ -1,0 +1,10 @@
+P1 Berlin
+P2 Berlin
+P3 Hamburg
+P4 Berlin
+P5 Hamburg
+P6 Munich
+P7 Munich
+P8 Hamburg
+P9 Berlin
+P10 Hamburg
