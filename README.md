@@ -1,5 +1,4 @@
 # Cargo Delivery Simulation Program #
-Overview
 This Java program simulates cargo delivery operations between distribution centers for a shipping company. The program uses custom implementations of doubly linked lists, stacks, and queues to model cargo packages and delivery vehicles, with each city having a distribution center to manage these resources.
 
 The program reads from input files to initialize the state of cities, packages, and vehicles and then processes a series of missions. Each mission involves selecting a vehicle, loading it with cargo packages, and following a specified route between cities. The final status of each distribution center is saved to an output file.
